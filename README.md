@@ -3,7 +3,7 @@ A little script I made for my friend Conrad so an image will move upon scrolling
 
 ## Usage
 
-Just add `<script> tags around it. You'll be fine. Like this: 
+Just add `<script>` tags around it. You'll be fine. Like this: 
 
 ```bash
 <script>document.addEventListener('DOMContentLoaded', function () {
